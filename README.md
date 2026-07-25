@@ -82,8 +82,7 @@ Exceções - tratamento de erros no inventário e uso de itens
 Desenvolvedores
 
 Jose Pedro
-William
-Victor
+Built with the support of AI tools.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 -Version in english:
 
@@ -169,5 +168,4 @@ Exceptions - error handling in inventory and item usage
 Developers
 
 Jose Pedro
-William
-Victor
+Built with the support of AI tools.
